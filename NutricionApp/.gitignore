@@ -1,0 +1,7 @@
+﻿# Ignorar la carpeta .vs
+.vs/
+
+# Ignorar archivos de configuración de usuario
+*.user
+*.suo
+*.sln.ide

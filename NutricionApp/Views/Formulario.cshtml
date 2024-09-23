@@ -1,0 +1,30 @@
+﻿@model NutricionApp.Models.Usuario
+
+<form asp-action="Calcular" method="post">
+    <label> Peso (kg):</label>
+    <input type="number" asp-for= "Peso" required /><br />
+
+    <label> Altura (cm)</label>
+    <input type="number" asp-for="Altura" required /><br />
+
+    <label> Edad:</label>
+    <input type="number" asp-for="Edad" required /><br />
+    
+    <label> Objetivo</label>
+    <select asp-for="Objetivo">
+        <option value="perder"> Perder peso</option>
+        <option value="mantener"> Mantener peso</option>
+        <option value="ganar"> Ganar masa muscular</option>
+    </select><br />
+
+    <label>Nivel de Actividad:</label>
+    <select asp-for="NivelActividad">
+        <option value="sedentario">Sedentario</option>
+        <option value="ligero">Ligero</option>
+        <option value="moderado">Moderado</option>
+        <option value="intenso">Intenso</option>
+    </select><br />
+
+    <input type="submit" value="Calcular" />
+
+</form>
