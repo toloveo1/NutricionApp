@@ -18,10 +18,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\jorge\source\repos\NutricionApp\NutricionApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/jorge/source/repos/NutricionApp/NutricionApp/Views/Formulario.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXVsYXJpby5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/jorge/source/repos/NutricionApp/NutricionApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,6 +36,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/jorge/source/repos/NutricionApp/NutricionApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorge/source/repos/NutricionApp/NutricionApp/Views/Usuario/Formulario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xGb3JtdWxhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorge/source/repos/NutricionApp/NutricionApp/Views/Usuario/Resultado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xSZXN1bHRhZG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jorge/source/repos/NutricionApp/NutricionApp/Views/_ViewImports.cshtml]

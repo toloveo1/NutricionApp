@@ -20,7 +20,7 @@ namespace NutricionApp.Controllers
 
             //enviamos el resultado a la vista
             ViewBag.Calorias = calorias;
-            return View("Resultado");
+            return View("Resultado", usuario);
          }
         //metodo para calcular calorias
         private double CalcularCalorias(Usuario usuario)
@@ -40,6 +40,8 @@ namespace NutricionApp.Controllers
                 case "intenso": return caloriasBase * 1.725;
                 default: return caloriasBase;
             }
+
+       
         }
     }
 
