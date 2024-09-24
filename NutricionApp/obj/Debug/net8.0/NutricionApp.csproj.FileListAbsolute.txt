@@ -28,3 +28,4 @@ C:\Users\jorge\source\repos\NutricionApp\NutricionApp\obj\Debug\net8.0\refint\Nu
 C:\Users\jorge\source\repos\NutricionApp\NutricionApp\obj\Debug\net8.0\NutricionApp.pdb
 C:\Users\jorge\source\repos\NutricionApp\NutricionApp\obj\Debug\net8.0\NutricionApp.genruntimeconfig.cache
 C:\Users\jorge\source\repos\NutricionApp\NutricionApp\obj\Debug\net8.0\ref\NutricionApp.dll
+C:\Users\jorge\source\repos\NutricionApp\NutricionApp\obj\Debug\net8.0\NutricionApp.sourcelink.json

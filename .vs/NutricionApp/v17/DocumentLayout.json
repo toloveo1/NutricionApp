@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\jorge\\source\\repos\\NutricionApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B75269C-0DDD-470F-8652-061DB3FFBD26}|NutricionApp\\NutricionApp.csproj|c:\\users\\jorge\\source\\repos\\nutricionapp\\nutricionapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B75269C-0DDD-470F-8652-061DB3FFBD26}|NutricionApp\\NutricionApp.csproj|solutionrelative:nutricionapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0B75269C-0DDD-470F-8652-061DB3FFBD26}|NutricionApp\\NutricionApp.csproj|c:\\users\\jorge\\source\\repos\\nutricionapp\\nutricionapp\\views\\usuario\\formulario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B75269C-0DDD-470F-8652-061DB3FFBD26}|NutricionApp\\NutricionApp.csproj|solutionrelative:nutricionapp\\views\\usuario\\formulario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B75269C-0DDD-470F-8652-061DB3FFBD26}|NutricionApp\\NutricionApp.csproj|c:\\users\\jorge\\source\\repos\\nutricionapp\\nutricionapp\\views\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B75269C-0DDD-470F-8652-061DB3FFBD26}|NutricionApp\\NutricionApp.csproj|solutionrelative:nutricionapp\\views\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0B75269C-0DDD-470F-8652-061DB3FFBD26}|NutricionApp\\NutricionApp.csproj|c:\\users\\jorge\\source\\repos\\nutricionapp\\nutricionapp\\nutricionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0B75269C-0DDD-470F-8652-061DB3FFBD26}|NutricionApp\\NutricionApp.csproj|solutionrelative:nutricionapp\\nutricionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B75269C-0DDD-470F-8652-061DB3FFBD26}|NutricionApp\\NutricionApp.csproj|c:\\users\\jorge\\source\\repos\\nutricionapp\\nutricionapp\\nutricionapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0B75269C-0DDD-470F-8652-061DB3FFBD26}|NutricionApp\\NutricionApp.csproj|solutionrelative:nutricionapp\\nutricionapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B75269C-0DDD-470F-8652-061DB3FFBD26}|NutricionApp\\NutricionApp.csproj|c:\\users\\jorge\\source\\repos\\nutricionapp\\nutricionapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B75269C-0DDD-470F-8652-061DB3FFBD26}|NutricionApp\\NutricionApp.csproj|solutionrelative:nutricionapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B75269C-0DDD-470F-8652-061DB3FFBD26}|NutricionApp\\NutricionApp.csproj|c:\\users\\jorge\\source\\repos\\nutricionapp\\nutricionapp\\views\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B75269C-0DDD-470F-8652-061DB3FFBD26}|NutricionApp\\NutricionApp.csproj|solutionrelative:nutricionapp\\views\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B75269C-0DDD-470F-8652-061DB3FFBD26}|NutricionApp\\NutricionApp.csproj|c:\\users\\jorge\\source\\repos\\nutricionapp\\nutricionapp\\views\\usuario\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,7 +50,18 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "NutricionApp",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\NutricionApp\\NutricionApp\\NutricionApp.csproj",
+              "RelativeDocumentMoniker": "NutricionApp\\NutricionApp.csproj",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\NutricionApp\\NutricionApp\\NutricionApp.csproj",
+              "RelativeToolTip": "NutricionApp\\NutricionApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T19:11:20.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Resultado.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\NutricionApp\\NutricionApp\\Views\\Usuario\\Resultado.cshtml",
               "RelativeDocumentMoniker": "NutricionApp\\Views\\Usuario\\Resultado.cshtml",
@@ -54,12 +69,11 @@
               "RelativeToolTip": "NutricionApp\\Views\\Usuario\\Resultado.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAUwAQAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T08:03:17.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T08:03:17.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\NutricionApp\\NutricionApp\\.gitignore",
               "RelativeDocumentMoniker": "NutricionApp\\.gitignore",
@@ -67,12 +81,11 @@
               "RelativeToolTip": "NutricionApp\\.gitignore",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-23T09:43:24.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T09:43:24.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "NutricionApp.csproj",
               "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\NutricionApp\\NutricionApp\\NutricionApp.csproj",
               "RelativeDocumentMoniker": "NutricionApp\\NutricionApp.csproj",
@@ -80,12 +93,11 @@
               "RelativeToolTip": "NutricionApp\\NutricionApp.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-23T09:38:11.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T09:38:11.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Resultado.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\NutricionApp\\NutricionApp\\Views\\Resultado.cshtml",
               "RelativeDocumentMoniker": "NutricionApp\\Views\\Resultado.cshtml",
@@ -93,25 +105,24 @@
               "RelativeToolTip": "NutricionApp\\Views\\Resultado.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T08:41:49.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T08:41:49.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Formulario.cshtml",
               "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\NutricionApp\\NutricionApp\\Views\\Usuario\\Formulario.cshtml",
               "RelativeDocumentMoniker": "NutricionApp\\Views\\Usuario\\Formulario.cshtml",
               "ToolTip": "C:\\Users\\jorge\\source\\repos\\NutricionApp\\NutricionApp\\Views\\Usuario\\Formulario.cshtml",
               "RelativeToolTip": "NutricionApp\\Views\\Usuario\\Formulario.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-23T08:30:06.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\NutricionApp\\NutricionApp\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "NutricionApp\\Controllers\\UsuarioController.cs",
@@ -119,12 +130,11 @@
               "RelativeToolTip": "NutricionApp\\Controllers\\UsuarioController.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAuwC0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T08:13:40.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T08:13:40.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\NutricionApp\\NutricionApp\\Program.cs",
               "RelativeDocumentMoniker": "NutricionApp\\Program.cs",
@@ -132,12 +142,11 @@
               "RelativeToolTip": "NutricionApp\\Program.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T07:43:47.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T07:43:47.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\NutricionApp\\NutricionApp\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "NutricionApp\\Models\\Usuario.cs",
@@ -145,8 +154,7 @@
               "RelativeToolTip": "NutricionApp\\Models\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T08:07:56.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T08:07:56.058Z"
             }
           ]
         }
