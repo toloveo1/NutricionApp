@@ -2,31 +2,32 @@
 
 <h2>Formulario de Nutricion</h2>
 
-<form asp-action="Calcular" method="post">
-    <label> Peso (kg):</label>
-    <input type="number" asp-for= "Peso" required /><br />
+<form asp-action="Calcular" method="post" style="max-width: 400px; margin: auto; padding: 20px; background-color: #f9f9f9; border-radius: 8px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);">
+    <h2 style="text-align: center; font-family: Arial, sans-serif; color: #333;">Calculadora Nutricional</h2>
 
-    <label> Altura (cm)</label>
-    <input type="number" asp-for="Altura" required /><br />
+    <label for="Peso" style="font-weight: bold; margin-top: 10px;">Peso (kg):</label>
+    <input type="number" asp-for="Peso" required style="width: 100%; padding: 8px; margin-top: 5px; margin-bottom: 10px; border-radius: 5px; border: 1px solid #ccc;"/>
 
-    <label> Edad:</label>
-    <input type="number" asp-for="Edad" required /><br />
-    
-    <label> Objetivo</label>
-    <select asp-for="Objetivo">
-        <option value="perder"> Perder peso</option>
-        <option value="mantener"> Mantener peso</option>
-        <option value="ganar"> Ganar masa muscular</option>
-    </select><br />
+    <label for="Altura" style="font-weight: bold; margin-top: 10px;">Altura (cm):</label>
+    <input type="number" asp-for="Altura" required style="width: 100%; padding: 8px; margin-top: 5px; margin-bottom: 10px; border-radius: 5px; border: 1px solid #ccc;"/>
 
-    <label>Nivel de Actividad:</label>
-    <select asp-for="NivelActividad">
+    <label for="Edad" style="font-weight: bold; margin-top: 10px;">Edad:</label>
+    <input type="number" asp-for="Edad" required style="width: 100%; padding: 8px; margin-top: 5px; margin-bottom: 10px; border-radius: 5px; border: 1px solid #ccc;"/>
+
+    <label for="Objetivo" style="font-weight: bold; margin-top: 10px;">Objetivo:</label>
+    <select asp-for="Objetivo" style="width: 100%; padding: 8px; margin-top: 5px; margin-bottom: 10px; border-radius: 5px; border: 1px solid #ccc;">
+        <option value="perder">Perder peso</option>
+        <option value="mantener">Mantener peso</option>
+        <option value="ganar">Ganar masa muscular</option>
+    </select>
+
+    <label for="NivelActividad" style="font-weight: bold; margin-top: 10px;">Nivel de Actividad:</label>
+    <select asp-for="NivelActividad" style="width: 100%; padding: 8px; margin-top: 5px; margin-bottom: 10px; border-radius: 5px; border: 1px solid #ccc;">
         <option value="sedentario">Sedentario</option>
         <option value="ligero">Ligero</option>
         <option value="moderado">Moderado</option>
         <option value="intenso">Intenso</option>
-    </select><br />
+    </select>
 
-    <input type="submit" value="Calcular" />
-
+    <input type="submit" value="Calcular" style="width: 100%; padding: 10px; background-color: #28a745; color: white; font-weight: bold; border: none; border-radius: 5px; cursor: pointer; margin-top: 20px;"/>
 </form>
